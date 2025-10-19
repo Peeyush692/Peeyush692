@@ -1,9 +1,23 @@
-Hi 👋, I'm Peeyush Bharati</h1>
-<h3 align="Left">A passionate Software developer from Nepal</h3>
+<h1 align="center">Hi, I'm <strong>Peeyush Bharati</strong> 👋</h1>
+<h3 align="center">.NET Developer | Software Engineer | Fun Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyush692&label=Profile%20views&color=0e75b6&style=flat" alt="peeyush692" /> </p>
+<p align="center">
+  I’m passionate about <strong>building websites</strong>, creating <strong>good designs</strong>, and delivering <strong>optimized web solutions</strong> using <strong>.NET</strong>, <strong>C#</strong>, and <strong>AI</strong>.
+</p>
 
-- 📫 How to reach me **peeyush1228@gmail.com**
+---
+
+🌱 **Currently working at:** Qualtosoft Pvt. Ltd. as a .NET Developer  
+🔭 **Experienced with:** C#, .NET Core, React, WPF, Java, SQL Server  
+🎓 **Graduated:** Diploma (Software Development), Toi-Ohomai Institute Of Technology, New Zealand  
+⚡ **Fun fact:** I love Graphics Designing, Web App Development, and Football
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peeyush692&label=Profile%20views&color=0e75b6&style=flat" alt="peeyush692" />
+</p>
+
 
 
 
