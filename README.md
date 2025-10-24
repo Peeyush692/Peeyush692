@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <strong>Peeyush Bharati</strong> 👋</h1>
-<h3 align="center">.NET Developer | Software Engineer | Football Lover</h3>
+<h3 align="center">.NET Developer | Software Engineer | Football Lover/Player</h3>
 
 <p align="center">
   I’m passionate about <strong>building websites</strong>, creating <strong>good designs</strong>, and delivering <strong>optimized web solutions</strong> using <strong>.NET</strong>, <strong>C#</strong>, and <strong>AI</strong>.
